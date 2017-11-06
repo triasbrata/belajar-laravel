@@ -2,9 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Requests;
 use App\Http\Requests\PhotoRequest;
-use App\Repository\User\UserRepositoryInterface;
 
 class PhotoController extends Controller
 {
@@ -17,15 +15,13 @@ class PhotoController extends Controller
         $this->model = app(PhotoRepositoryInterface::class);
         $this->requestName = PhotoRequest::class;
         $this->requestField = ['name', 'email', 'password'];
-        
     }
 
     public function update($id)
     {
-    	$this->requestField = \Request::has('password') ? ['name', 'email', 'password']
-    												   : ['name', 'email'];
-    	return parent::update($id);
+        $this->requestField = \Request::has('password') ? ['name', 'email', 'password']
+                                                       : ['name', 'email'];
+
+        return parent::update($id);
     }
-
-
 }

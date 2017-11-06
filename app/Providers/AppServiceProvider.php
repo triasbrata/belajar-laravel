@@ -14,34 +14,26 @@ class AppServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap any application services.
-     *
-     * @return void
      */
     public function boot()
     {
         //
         // \Schema::defaultStringLength(191);
-        $this->app->bind(UserRepositoryInterface::class,function ()
-        {
+        $this->app->bind(UserRepositoryInterface::class, function () {
             return app(UserRepositoryEloquent::class);
         });
-        $this->app->bind(RoleRepositoryInterface::class,function ()
-        {
+        $this->app->bind(RoleRepositoryInterface::class, function () {
             return app(RoleRepositoryEloquent::class);
         });
-         $this->app->bind(PostRepositoryInterface::class,function ()
-        {
+        $this->app->bind(PostRepositoryInterface::class, function () {
             return app(PostRepositoryEloquent::class);
         });
     }
 
     /**
      * Register any application services.
-     *
-     * @return void
      */
     public function register()
     {
-        
     }
 }

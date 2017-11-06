@@ -16,7 +16,7 @@
 				<td>{{ $item->email }}</td>
 				<td>{{ $item->created_at->format('d F Y') }}</td>
 				<td>
-					{!! Form::open(['route'=>['admin.user.destroy',$item->id],'method'=>'delete']) !!}
+					{!! Form::open(['route'=>['admin.user.destroy',$item->id],'method'=>'delete','class'=>'form-delete']) !!}
 						<div class="btn-group">	
 							<a class="btn btn-xs btn-info" href="{{ route('admin.user.edit',$item->id) }}">Edit</a>
 							<a class="btn btn-xs btn-warning" href="{{ route('admin.user.show',$item->id) }}">View</a>	

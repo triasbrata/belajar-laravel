@@ -2,8 +2,6 @@
 
 namespace App\Providers;
 
-use App\Events\RegisterUser;
-use App\Listeners\RegisterUserListener;
 use Illuminate\Contracts\Events\Dispatcher as DispatcherContract;
 use Illuminate\Foundation\Support\Providers\EventServiceProvider as ServiceProvider;
 
@@ -15,22 +13,18 @@ class EventServiceProvider extends ServiceProvider
      * @var array
      */
     protected $listen = [
-        'App\Events\PostCreateOrUpdate' =>[
+        'App\Events\PostCreateOrUpdate' => [
                 'App\Listeners\PostCreateOrUpdateListener',
-
-        ]
+        ],
     ];
 
     /**
      * Register any other events for your application.
      *
-     * @param  \Illuminate\Contracts\Events\Dispatcher  $events
-     * @return void
+     * @param \Illuminate\Contracts\Events\Dispatcher $events
      */
     public function boot(DispatcherContract $events)
     {
         parent::boot($events);
-
-        //
     }
 }

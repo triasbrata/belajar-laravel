@@ -1,0 +1,1862 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"parent",
+				"$parent_id〔variable〕"
+			],
+			[
+				"Regis",
+				"RegisterUser〔namespace〕"
+			],
+			[
+				"Mail",
+				"Mail::send\tSend a new message using a view."
+			],
+			[
+				"Pos",
+				"PostRepositoryEloquent〔namespace〕"
+			],
+			[
+				"User",
+				"UserRepositoryEloquent〔namespace〕"
+			],
+			[
+				"new",
+				"$newAttribute〔variable〕"
+			],
+			[
+				"Image",
+				"imageFeatures"
+			],
+			[
+				"image",
+				"imageFeatures"
+			],
+			[
+				"call",
+				"call_user_func_array〔function〕"
+			],
+			[
+				"A",
+				"App〔namespace〕"
+			],
+			[
+				"topN",
+				"topNewsIds"
+			],
+			[
+				"DB",
+				"DB::transaction_begin\tStart a new database transaction."
+			],
+			[
+				"top",
+				"$topNews〔variable〕"
+			],
+			[
+				"coll",
+				"collect〔function〕"
+			],
+			[
+				"where",
+				"whereNotIn"
+			],
+			[
+				"title",
+				"title_case\tL5 Title Case"
+			],
+			[
+				"str_rep",
+				"str_replace〔function〕"
+			],
+			[
+				"implde",
+				"implode〔function〕"
+			],
+			[
+				"titl",
+				"$title_explode〔variable〕"
+			],
+			[
+				"strto",
+				"strtolower〔function〕"
+			],
+			[
+				"request",
+				"requestAnimationFrame\t( callback: FrameRequestCallback ): long Window"
+			],
+			[
+				"getM",
+				"getMonth\t(): int Date"
+			],
+			[
+				"removeC",
+				"removeClass"
+			],
+			[
+				"data-",
+				"data-toggle"
+			],
+			[
+				"Schhas",
+				"Schema::hasColumn\tCheck for existence of column(s)"
+			],
+			[
+				"Schmadr",
+				"Schema::dropIfExists\tDrop an existing database table if it exists"
+			],
+			[
+				"Schemahas",
+				"Schema::hasTable\tCheck for existence of table"
+			],
+			[
+				"Schema",
+				"Schema::table-update\tUpdate an existing table"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"has",
+				"hasClass〔function〕"
+			],
+			[
+				"menus",
+				"$menuIds〔variable〕"
+			],
+			[
+				"menu",
+				"menuIds"
+			],
+			[
+				"collec",
+				"collect"
+			],
+			[
+				"sub_cate",
+				"sub_category_id"
+			],
+			[
+				"fac",
+				"$factory〔variable〕"
+			],
+			[
+				"fea",
+				"$featured〔variable〕"
+			],
+			[
+				"recent",
+				"recentPost"
+			],
+			[
+				"quer",
+				"$queryText〔variable〕"
+			],
+			[
+				"Sche",
+				"Schema::table-update\tUpdate an existing table"
+			],
+			[
+				"widgets",
+				"widgets.front.default.ticker-news"
+			],
+			[
+				"collect",
+				"collection"
+			],
+			[
+				"role",
+				"roleId"
+			],
+			[
+				"user",
+				"$userRole〔variable〕"
+			],
+			[
+				"fun",
+				"fun\tfunction …"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"redire",
+				"redirectBackWithError〔function〕"
+			],
+			[
+				"ex",
+				"$explode_layout_name〔variable〕"
+			],
+			[
+				"is",
+				"$isCreateOrEdit〔variable〕"
+			],
+			[
+				"document",
+				"documtentTitle"
+			],
+			[
+				"searc",
+				"searchString"
+			],
+			[
+				"seach",
+				"searchString"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"key",
+				"keydown"
+			],
+			[
+				"for",
+				"fore\tblade-fore"
+			],
+			[
+				"sub",
+				"$subCategory〔variable〕"
+			],
+			[
+				"redirect",
+				"redirectBackWithError〔function〕"
+			],
+			[
+				"form",
+				"form-group\tform-group"
+			],
+			[
+				"Storage",
+				"Storage::get\tRetrieve the contents of a given file"
+			],
+			[
+				"S",
+				"Session::has\tDetermin if an Item Exists in the Session"
+			],
+			[
+				"bac",
+				"$backup_image〔variable〕"
+			],
+			[
+				"content",
+				"$content〔variable〕"
+			],
+			[
+				"conte",
+				"$content〔variable〕"
+			],
+			[
+				"json",
+				"json_decode〔function〕"
+			],
+			[
+				"post",
+				"$post_rev〔variable〕"
+			],
+			[
+				"app",
+				"append\t( nodes_..: Node|DOMString ): void Document"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"ap",
+				"append\t( nodes_..: Node|DOMString ): void Document"
+			],
+			[
+				"clone",
+				"cloneTr"
+			],
+			[
+				"isO",
+				"isPlainObject〔function〕"
+			],
+			[
+				"jsoen",
+				"json_encode"
+			],
+			[
+				"Stora",
+				"Storage::get\tRetrieve the contents of a given file"
+			],
+			[
+				"revisi",
+				"$revision〔variable〕"
+			],
+			[
+				"Post",
+				"PostRevision〔class〕"
+			],
+			[
+				"PostRe",
+				"PostRevision〔namespace〕"
+			],
+			[
+				"D",
+				"DB::transaction_commit\tCommit the active database transaction."
+			],
+			[
+				"get",
+				"getAttributes〔function〕"
+			],
+			[
+				"fomr",
+				"form-group\tform-group"
+			],
+			[
+				"Sch",
+				"Schema::table-update\tUpdate an existing table"
+			],
+			[
+				"cate",
+				"category_ids"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"ed",
+				"editor"
+			],
+			[
+				"Schedr",
+				"Schema::dropIfExists\tDrop an existing database table if it exists"
+			],
+			[
+				"save",
+				"saveOrFail"
+			],
+			[
+				"att",
+				"$attributes〔variable〕"
+			],
+			[
+				"validat",
+				"$validator〔variable〕"
+			],
+			[
+				"st",
+				"$storage〔variable〕"
+			],
+			[
+				"list",
+				"list-group-item"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"remo",
+				"removeClass〔function〕"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"select",
+				"select.form-control"
+			],
+			[
+				"remove",
+				"removeFile"
+			],
+			[
+				"query",
+				"querySelector\t( selectors: DOMString ): Element Element"
+			],
+			[
+				"doneva",
+				"doneVar〔variable〕"
+			],
+			[
+				"unit",
+				"unitUsaha"
+			],
+			[
+				"prevent",
+				"preventDefault(): void\tEvent"
+			],
+			[
+				"padding",
+				"padding: 〔property〕"
+			],
+			[
+				"color",
+				"color: 〔property〕"
+			],
+			[
+				"fw",
+				"font-weight: 〔property〕"
+			],
+			[
+				"set",
+				"setEmailLayout〔function〕"
+			],
+			[
+				"setEmailT",
+				"setEmailToName〔function〕"
+			],
+			[
+				"setEmail",
+				"setEmailToName〔function〕"
+			],
+			[
+				"bank",
+				"bank_item"
+			],
+			[
+				"array_mer",
+				"array_merge_recursive〔function〕"
+			],
+			[
+				"emal",
+				"emailBuilder"
+			],
+			[
+				"event",
+				"event〔function〕"
+			],
+			[
+				"billing",
+				"billing_info\tperiksa.blade.php"
+			],
+			[
+				"col",
+				"col-xs-12"
+			],
+			[
+				"List",
+				"ListenerEmailException"
+			],
+			[
+				"getEmail",
+				"getEmailTo"
+			],
+			[
+				"setEmau",
+				"setEmailLayout〔function〕"
+			],
+			[
+				"email",
+				"email_from_name〔variable〕"
+			],
+			[
+				"val",
+				"val()\tselect2.js"
+			],
+			[
+				"inArray",
+				"inArray(arr, val)\tutils.js"
+			],
+			[
+				"Input",
+				"Input::old\tRetrieve Old Data"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"provinsi",
+				"provinsi_id\tperiksa.blade.php"
+			],
+			[
+				"pengiriman",
+				"pengirimanFetcher"
+			],
+			[
+				"pengi",
+				"pengirimanFetcher"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"re",
+				"replace"
+			],
+			[
+				"function",
+				"function_exists〔function〕"
+			],
+			[
+				"Route",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"item_",
+				"$item_dari_db〔variable〕"
+			],
+			[
+				"item",
+				"$item_terbeli〔variable〕"
+			],
+			[
+				"off",
+				"offsetGet〔function〕"
+			],
+			[
+				"produ",
+				"$produkFormDb〔variable〕"
+			],
+			[
+				"des",
+				"describe__invoice-detail"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sublin",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"GITSCREATE",
+				"Gist: Create Private Gist"
+			],
+			[
+				"GITSINSER",
+				"Gist: Insert Gist"
+			],
+			[
+				"gistin",
+				"Gist: Insert Gist"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"model",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"box",
+				"Boxy Theme: Activation"
+			],
+			[
+				"alin",
+				"Preferences: AlignTab Settings"
+			],
+			[
+				"MATERIA",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"BOXY",
+				"Boxy Theme: Activation"
+			],
+			[
+				"miga",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"migra",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"makereq",
+				"Laravel Artisan 5: Make:Request"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"make",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"migration",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"migrate",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"comment",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"commet",
+				"Console Wrap: Comment logs"
+			],
+			[
+				"idne",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"move\t",
+				"File: Move"
+			],
+			[
+				"makemig",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"roitelist",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"seeder",
+				"Laravel Artisan 5: Make:Seeder"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"routelis",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"seder",
+				"Laravel Artisan 5: Make:Seeder"
+			],
+			[
+				"route",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"artisan",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"alig",
+				"AlignTab"
+			],
+			[
+				"coppa",
+				"File: Copy Path From Project"
+			],
+			[
+				"artisanser",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"makepro",
+				"Laravel Artisan 5: Make:Provider"
+			],
+			[
+				"dl",
+				"File: Delete"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"blade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"renma",
+				"File: Rename"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"copy",
+				"File: Copy Path From Project"
+			],
+			[
+				"moev",
+				"File: Move"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"copypro",
+				"File: Copy Path From Project"
+			],
+			[
+				"copu",
+				"File: Copy URL"
+			],
+			[
+				"copypa",
+				"File: Copy Path From Project"
+			],
+			[
+				"rotelist",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"mig",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"makemi",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"reque",
+				"Laravel Artisan 5: Make:Request"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"duplica\t",
+				"File: Duplicate"
+			],
+			[
+				"reques",
+				"Laravel Artisan 5: Make:Request"
+			],
+			[
+				"npm",
+				"npm: Install Package"
+			],
+			[
+				"makemigrat",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"rerquest",
+				"Laravel Artisan 5: Make:Request"
+			],
+			[
+				"request",
+				"Laravel Artisan 5: Make:Request"
+			],
+			[
+				"rollback",
+				"Laravel Artisan 5: Migrate:Rollback"
+			],
+			[
+				"dul",
+				"File: Duplicate"
+			],
+			[
+				"routelist",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"controller",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"tab",
+				"AlignTab"
+			],
+			[
+				"install",
+				"npm: Install Package"
+			],
+			[
+				"shcema",
+				"Snippet: Specify connection for schema operation"
+			],
+			[
+				"makere",
+				"Laravel Artisan 5: Make:Request"
+			],
+			[
+				"dle",
+				"File: Delete"
+			],
+			[
+				"she",
+				"Shell Exec: Open"
+			],
+			[
+				"console",
+				"Console Wrap: Create logs"
+			],
+			[
+				"wrapcon",
+				"Console Wrap: Comment logs"
+			],
+			[
+				"log",
+				"Console Wrap: Create logs"
+			],
+			[
+				"browse",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"sftpc",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"laravel",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"liv",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"dee",
+				"File: Delete"
+			],
+			[
+				"alignlv",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"aling",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"shell",
+				"Shell Exec: Open"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"stpcan",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"var",
+				"Snippet: blade-var"
+			],
+			[
+				"a",
+				"AlignTab"
+			],
+			[
+				"cp",
+				"Copy Package Path"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ali",
+				"AlignTab"
+			],
+			[
+				"al",
+				"AlignTab: Table Mode"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"class",
+				"Copy Class Name"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"iunde",
+				"Snippet: blade-include"
+			],
+			[
+				"ine",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"rever",
+				"File: Revert"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"m",
+				"File: Move"
+			],
+			[
+				"syntex blade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"packagedisab",
+				"Package Control: Disable Package"
+			],
+			[
+				"PHP: Generate",
+				"PHP: Generate Getters"
+			],
+			[
+				"Package Control: disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"preference",
+				"Preferences: Settings - User"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"autosave",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"bro",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"idn",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"infr",
+				"File: New File Relative to Current View"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"installl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"indet",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"refactor",
+				"Snippet: Route to a RESTful Controller"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 558.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/triasbrata/Developer/NGAJAR/laravel5",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/app",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/app/Jobs",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/app/Listeners",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/bootstrap"
+	],
+	"file_history":
+	[
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/app/Listeners/PostCreateOrUpdateListener.php",
+		"/Users/triasbrata/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-mousemap",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/app/Events/PostCreateOrUpdate.php",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/app/Events/Event.php",
+		"/Users/triasbrata/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/Default (OSX).sublime-mousemap",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/app/Events/SomeEvent.php",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php",
+		"/Users/triasbrata/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/triasbrata/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/triasbrata/Library/Application Support/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/server.php",
+		"/Users/triasbrata/Developer/Sites/laravel5/server.php",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/app/Http/Controllers/Auth/PasswordController.php",
+		"/Users/triasbrata/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/triasbrata/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/app/Http/Controllers/HomeController.php",
+		"/Users/triasbrata/Library/Application Support/Sublime Text 3/Packages/User/builder/psr2.sublime-build",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/app/Http/Controllers/Auth/AuthController.php",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/app/Tag.php",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/resources/views/layouts/app.blade.php",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/app/Http/routes.php",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/app/Http/Controllers/PostController.php",
+		"/Users/triasbrata/.php-cs-fixer-rules.json",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/src/Providers/Traits/CRUDTrait.php",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/app/Post.php",
+		"/Users/triasbrata/Library/Application Support/Sublime Text 3/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/Users/triasbrata/Library/Application Support/Sublime Text 3/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/resources/views/post/form.blade.php",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/src/Providers/Traits/CRUDHelperTrait.php",
+		"/Users/triasbrata/image-feature-export-file-250917133916.json",
+		"/Users/triasbrata/image-feature-export-file-270917002335.json",
+		"/Users/triasbrata/Developer/dl4j/src/assets/plant.csv",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport.php",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
+		"/Users/triasbrata/Dropbox/plant.csv",
+		"/Users/triasbrata/image-feature-export-file-110917011436.json",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/config/database.php",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/app/Repository/Post/PostRepositoryEloquent.php",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+		"/Users/triasbrata/Developer/NGAJAR/laravel5/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/Users/triasbrata/Homestead/Homestead.yaml",
+		"/etc/hostconfig",
+		"/Users/triasbrata/Desktop/json tumbuhan.json",
+		"/Users/triasbrata/Library/Icons/WebpageIcons.db",
+		"/Users/triasbrata/Developer/Sites/portal/vendor/laravel/framework/src/Illuminate/Foundation/Bus/DispatchesJobs.php",
+		"/Users/triasbrata/Developer/Sites/portal/vendor/laravel/framework/src/Illuminate/Foundation/Auth/Access/AuthorizesRequests.php",
+		"/Users/triasbrata/Developer/Sites/portal/vendor/laravel/framework/src/Illuminate/Foundation/Validation/ValidatesRequests.php",
+		"/Users/triasbrata/.bash_profile",
+		"/Users/triasbrata/Developer/Sites/portal/database/migrations/2017_08_24_064606_create_media_table.php",
+		"/Users/triasbrata/Developer/Sites/portal/database/migrations/2017_08_24_065704_update_table_posts_r6.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Http/Requests/MediaRequest.php",
+		"/Users/triasbrata/Developer/Sites/portal/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php",
+		"/Users/triasbrata/Developer/Sites/portal/vendor/laravel/framework/src/Illuminate/Support/Collection.php",
+		"/Users/triasbrata/Developer/Sites/portal/database/migrations/2017_08_06_082708_create_posts_table.php",
+		"/Users/triasbrata/Developer/Sites/portal/database/migrations/2017_08_23_185942_update_table_tags_r1.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/widgets/front/nav.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/widgets/front/ads.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/front/ads.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Providers/ViewServiceProvider.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Http/Controllers/User/CategoryController.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Category.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/user/category/index.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/user/post/form.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Http/Requests/PostRequest.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Post.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/user/post/index.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Http/Controllers/User/Traits/PostRevisionTrait.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Http/Controllers/User/PostController.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/user/category/form.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Http/Controllers/User/AccessMenuController.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/user/access_menu/form.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/widgets/front/default/footer.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/widgets/front/default/tab-news.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/user/sub_category/index.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/SubCategory.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Http/Controllers/User/Traits/PostHelperTrait.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/widgets/users/sidebar.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/user/access_menu/role-form.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/layouts/user.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/config/app.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/AccessMenu.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/widgets/front/default/feature-today-news.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/auth/register.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Http/Controllers/User/SubCategoryController.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Http/Requests/SubCategoryRequest.php",
+		"/Users/triasbrata/Developer/Sites/portal/database/migrations/2017_08_23_142409_update_table_categories_r1.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/user/sub_category/form.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/Users/triasbrata/Developer/Sites/portal/database/migrations/2017_08_23_142749_update_posts_table_r5.php",
+		"/Users/triasbrata/Developer/Sites/portal/database/migrations/2017_08_23_142800_delete_table_sub_categories.php",
+		"/Users/triasbrata/Developer/Sites/portal/.env",
+		"/Users/triasbrata/Developer/Sites/portal/bootstrap/app.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Http/Controllers/Auth/LoginController.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/Users/triasbrata/Developer/Sites/portal/database/seeds/DatabaseSeeder.php",
+		"/Users/triasbrata/Developer/Sites/portal/database/seeds/SocialMediaSeeder.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/widgets/front/social-media-list.blade.php",
+		"/Users/triasbrata/Developer/Sites/portal/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php",
+		"/Users/triasbrata/Developer/Sites/portal/database/seeds/AccessMenuRoleSeeder.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Http/Controllers/Auth/RegisterController.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Http/Middleware/AuthRole.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/User.php",
+		"/Users/triasbrata/Developer/Sites/portal/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php",
+		"/Users/triasbrata/Developer/Sites/portal/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php",
+		"/Users/triasbrata/Developer/Sites/portal/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php",
+		"/Users/triasbrata/Developer/Sites/portal/database/migrations/2017_08_13_162035_update_table_post_r3.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Role.php",
+		"/Users/triasbrata/Developer/Sites/portal/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php",
+		"/Users/triasbrata/Developer/Sites/portal/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Concerns/InteractsWithPivotTable.php",
+		"/Users/triasbrata/Homestead/Vagrantfile",
+		"/Users/triasbrata/Developer/Sites/portal/database/migrations/2017_08_14_232224_update_table_users_r1.php",
+		"/Users/triasbrata/Developer/Sites/portal/database/migrations/2017_08_13_163902_update_table_sub_category_r1.php",
+		"/Users/triasbrata/Developer/Sites/portal/database/migrations/2017_08_13_154244_create_sub_categories_table.php",
+		"/Users/triasbrata/Developer/Sites/portal/database/migrations/2017_08_12_112035_update_table_post_r3.php",
+		"/Users/triasbrata/Developer/Sites/portal/database/migrations/2017_08_23_112035_update_table_post_r3.php",
+		"/Users/triasbrata/Developer/Sites/portal/vendor/laravel/framework/src/Illuminate/Support/Fluent.php",
+		"/Users/triasbrata/Developer/Sites/portal/composer.json",
+		"/Users/triasbrata/Developer/Sites/portal/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php",
+		"/Users/triasbrata/vagrant.sh",
+		"/Users/triasbrata/.homestead/Homestead.yaml",
+		"/Users/triasbrata/Vagrantfile",
+		"/usr/local/var/mysql/mac-tb.err",
+		"/Users/triasbrata/Developer/Sites/portal/routes/web.php",
+		"/Users/triasbrata/Developer/Sites/portal/database/migrations/2017_08_21_090107_update_post_table_r4.php",
+		"/Users/triasbrata/Developer/Sites/portal/app/Providers/AppServiceProvider.php",
+		"/Users/triasbrata/Developer/Sites/portal/resources/views/user/social_media/edit.blade.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 138.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.textarea":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "",
+	"project": "ngajar.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"passwordcontroller.php",
+				"app/Http/Controllers/Auth/PasswordController.php"
+			],
+			[
+				"tag",
+				"app/Tag.php"
+			],
+			[
+				"post",
+				"app/Post.php"
+			],
+			[
+				"crud",
+				"src/Providers/Traits/CRUDTrait.php"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"post/form",
+				"resources/views/post/form.blade.php"
+			],
+			[
+				"postcontroller",
+				"app/Http/Controllers/PostController.php"
+			],
+			[
+				"mail",
+				"vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php"
+			],
+			[
+				"for-editor",
+				"resources/views/emails/for-editor.blade.php"
+			],
+			[
+				"user/sho",
+				"resources/views/user/show.blade.php"
+			],
+			[
+				"event",
+				"app/Providers/EventServiceProvider.php"
+			],
+			[
+				"databse.",
+				"config/database.php"
+			],
+			[
+				"postc",
+				"app/Http/Controllers/User/PostController.php"
+			],
+			[
+				"2017_08_24_065704_update_table_posts_r6",
+				"database/migrations/2017_08_24_065704_update_table_posts_r6.php"
+			],
+			[
+				"mediacon",
+				"app/Http/Controllers/MediaController.php"
+			],
+			[
+				"2017_08_24_064606_create_media_table",
+				"database/migrations/2017_08_24_064606_create_media_table.php"
+			],
+			[
+				"postcon",
+				"app/Http/Controllers/User/PostController.php"
+			],
+			[
+				"create_post_",
+				"database/migrations/2017_08_06_082708_create_posts_table.php"
+			],
+			[
+				"categor",
+				"app/Http/Controllers/User/CategoryController.php"
+			],
+			[
+				"post.p",
+				"app/Post.php"
+			],
+			[
+				"posthe",
+				"app/Http/Controllers/User/Traits/PostHelperTrait.php"
+			],
+			[
+				"viewc",
+				"app/Providers/ViewServiceProvider.php"
+			],
+			[
+				"2017_08_23_185942_update_table_tags_r1",
+				"database/migrations/2017_08_23_185942_update_table_tags_r1.php"
+			],
+			[
+				"category",
+				"app/Category.php"
+			],
+			[
+				"nav.blade",
+				"resources/views/widgets/front/nav.blade.php"
+			],
+			[
+				"post.php",
+				"app/Post.php"
+			],
+			[
+				"view",
+				"app/Providers/ViewServiceProvider.php"
+			],
+			[
+				"post/index",
+				"resources/views/user/post/index.blade.php"
+			],
+			[
+				"postcont",
+				"app/Http/Controllers/User/PostController.php"
+			],
+			[
+				"category/inde",
+				"resources/views/user/category/index.blade.php"
+			],
+			[
+				"categorycon",
+				"app/Http/Controllers/User/CategoryController.php"
+			],
+			[
+				"postre",
+				"app/Http/Requests/PostRequest.php"
+			],
+			[
+				"categorycont",
+				"app/Http/Controllers/User/CategoryController.php"
+			],
+			[
+				"category/for",
+				"resources/views/user/category/form.blade.php"
+			],
+			[
+				"category/index",
+				"resources/views/user/category/index.blade.php"
+			],
+			[
+				"menu/",
+				"resources/views/user/access_menu/form.blade.php"
+			],
+			[
+				"accessmenu",
+				"app/Http/Controllers/User/AccessMenuController.php"
+			],
+			[
+				"postco",
+				"app/Http/Controllers/User/PostController.php"
+			],
+			[
+				"subcateg",
+				"app/SubCategory.php"
+			],
+			[
+				"subcatego/index",
+				"resources/views/user/sub_category/index.blade.php"
+			],
+			[
+				"subca",
+				"app/SubCategory.php"
+			],
+			[
+				"subcage",
+				"app/Http/Controllers/User/SubCategoryController.php"
+			],
+			[
+				"sub_categofor",
+				"resources/views/user/sub_category/form.blade.php"
+			],
+			[
+				"app.php",
+				"config/app.php"
+			],
+			[
+				"layoutuser",
+				"resources/views/layouts/user.blade.php"
+			],
+			[
+				"access_menu/",
+				"resources/views/user/access_menu/role-form.blade.php"
+			],
+			[
+				"widgets/users/sidebar.blade.php",
+				"resources/views/widgets/users/sidebar.blade.php"
+			],
+			[
+				"sidebar",
+				"resources/views/widgets/users/sidebar.blade.php"
+			],
+			[
+				"socialmedia",
+				"resources/views/widgets/front/social-media-list.blade.php"
+			],
+			[
+				"database",
+				"database/seeds/DatabaseSeeder.php"
+			],
+			[
+				"databasesee",
+				"database/seeds/DatabaseSeeder.php"
+			],
+			[
+				"databaseser",
+				"vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php"
+			],
+			[
+				"loginc",
+				"app/Http/Controllers/Auth/LoginController.php"
+			],
+			[
+				"logincon",
+				"app/Http/Controllers/Auth/LoginController.php"
+			],
+			[
+				"update",
+				"database/migrations/2017_08_12_112035_update_table_post_r3.php"
+			],
+			[
+				"2017_08_12_112035_update_table_post_r3",
+				"database/migrations/2017_08_12_112035_update_table_post_r3.php"
+			],
+			[
+				"role",
+				"app/Role.php"
+			],
+			[
+				"registercontoll",
+				"app/Http/Controllers/Auth/RegisterController.php"
+			],
+			[
+				"register",
+				"resources/views/auth/register.blade.php"
+			],
+			[
+				"feature-today-news.blade.php",
+				"resources/views/widgets/front/default/feature-today-news.blade.php"
+			],
+			[
+				"/illuminate/support/fluent",
+				"vendor/laravel/framework/src/Illuminate/Support/Fluent.php"
+			],
+			[
+				"2017_08_14_232224_update_table_users_r1",
+				"database/migrations/2017_08_14_232224_update_table_users_r1.php"
+			],
+			[
+				"2017_08_13_154244_create_sub_categories_table",
+				"database/migrations/2017_08_13_154244_create_sub_categories_table.php"
+			],
+			[
+				"2017_08_13_163902_update_table_sub_category_r1",
+				"database/migrations/2017_08_13_163902_update_table_sub_category_r1.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"feature-today-news",
+				"resources/views/widgets/front/default/feature-today-news.blade.php"
+			],
+			[
+				"2017_08_21_090107_update_post_table_r4",
+				"database/migrations/2017_08_21_090107_update_post_table_r4.php"
+			],
+			[
+				"viewser",
+				"app/Providers/ViewServiceProvider.php"
+			],
+			[
+				"2017_08_18_182410_create_social_media_table",
+				"database/migrations/2017_08_18_182410_create_social_media_table.php"
+			],
+			[
+				"node_modules/font-awesome/css/font-awesome.min.css",
+				"node_modules/font-awesome/css/font-awesome.min.css"
+			],
+			[
+				"resourcefont-awesome",
+				"resources/assets/front-end/default/css/font-awesome.css"
+			],
+			[
+				"fontawesome.css",
+				"node_modules/font-awesome/css/font-awesome.min.css"
+			],
+			[
+				"web",
+				"webpack.mix.js"
+			],
+			[
+				"appser",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"top.blade",
+				"resources/views/widgets/users/top-nav.blade.php"
+			],
+			[
+				"side",
+				"resources/views/widgets/users/sidebar.blade.php"
+			],
+			[
+				"illuminate/auth/sessionguard",
+				"vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php"
+			],
+			[
+				"sessionguard",
+				"vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php"
+			],
+			[
+				"usercont",
+				"app/Http/Controllers/User/UserController.php"
+			],
+			[
+				"registercontroller",
+				"app/Http/Controllers/Auth/RegisterController.php"
+			],
+			[
+				"app/http/controllers/user/traits/postrevisiontrait.php",
+				"app/Http/Controllers/User/Traits/PostRevisionTrait.php"
+			],
+			[
+				"driverexception",
+				"vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php"
+			],
+			[
+				"user_r1",
+				"database/migrations/2017_08_14_232224_update_table_users_r1.php"
+			],
+			[
+				"user_",
+				"database/migrations/2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"post/inde",
+				"resources/views/user/post/index.blade.php"
+			],
+			[
+				"revision",
+				"resources/views/user/post/revision.blade.php"
+			],
+			[
+				"resources/js/datatables.bootstrap.js",
+				"resources/assets/js/dataTables.bootstrap.js"
+			],
+			[
+				"we",
+				"webpack.mix.js"
+			],
+			[
+				"datatable",
+				"node_modules/gentelella/vendors/datatables.net-bs/js/dataTables.bootstrap.js"
+			],
+			[
+				"webpac",
+				"webpack.mix.js"
+			],
+			[
+				"node_modules/gentelella/vendors/datatables.net-bs/js/datatables.bootstrap.js",
+				"node_modules/gentelella/vendors/datatables.net-bs/js/dataTables.bootstrap.js"
+			],
+			[
+				"node_modules/gentelella/vendors/datatables.net-bs/js/datatables.bootstrap.min.js",
+				"node_modules/gentelella/vendors/datatables.net-bs/js/dataTables.bootstrap.min.js"
+			],
+			[
+				"webac",
+				"webpack.mix.js"
+			],
+			[
+				"postrequest",
+				"app/Http/Requests/PostRequest.php"
+			],
+			[
+				"tagreq",
+				"app/Http/Requests/TagRequest.php"
+			],
+			[
+				"categ",
+				"app/Http/Requests/CategoryRequest.php"
+			],
+			[
+				"tagre",
+				"app/Http/Requests/TagRequest.php"
+			],
+			[
+				"postrevision",
+				"resources/views/user/post/revision.blade.php"
+			],
+			[
+				"post.",
+				"app/Post.php"
+			],
+			[
+				"postreques",
+				"app/Http/Requests/PostRequest.php"
+			],
+			[
+				"update_table",
+				"database/migrations/2017_08_06_094403_update_table_post.php"
+			],
+			[
+				"layuser",
+				"resources/views/layouts/user.blade.php"
+			],
+			[
+				"app.js",
+				"resources/assets/js/app.js"
+			],
+			[
+				"subcategre",
+				"app/Http/Requests/SubCategoryRequest.php"
+			],
+			[
+				"sub",
+				"app/SubCategory.php"
+			],
+			[
+				"03ff071046a6f53786c8eb42c4130eef08f8d190",
+				"storage/framework/views/03ff071046a6f53786c8eb42c4130eef08f8d190.php"
+			],
+			[
+				"subcate",
+				"app/SubCategory.php"
+			],
+			[
+				"sub_cate",
+				"database/migrations/2017_08_13_154244_create_sub_categories_table.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"app.les",
+				"resources/assets/less/app.less"
+			],
+			[
+				"app",
+				"resources/assets/js/app.js"
+			],
+			[
+				"bootstrap-dialog.less",
+				"node_modules/bootstrap3-dialog/dist/less/bootstrap-dialog.less"
+			],
+			[
+				"boostrapdo",
+				"node_modules/bootstrap3-dialog/dist/js/bootstrap-dialog.js"
+			],
+			[
+				"postrevisi",
+				"database/migrations/2017_08_06_094558_update_table_post_revisionr1.php"
+			],
+			[
+				"2017_08_12_135017_update_table_post_revision_r2",
+				"database/migrations/2017_08_12_135017_update_table_post_revision_r2.php"
+			],
+			[
+				"postconto",
+				"app/Http/Controllers/User/PostController.php"
+			],
+			[
+				"tagcon",
+				"app/Http/Controllers/User/TagController.php"
+			],
+			[
+				"2017_08_12_121713_create_table_taggables",
+				"database/migrations/2017_08_12_121713_create_table_taggables.php"
+			],
+			[
+				"createtag",
+				"database/migrations/2017_08_12_113245_create_tags_table.php"
+			],
+			[
+				"categoryc",
+				"app/Http/Controllers/User/CategoryController.php"
+			],
+			[
+				"appserv",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"access",
+				"app/Http/Controllers/User/AccessMenuController.php"
+			],
+			[
+				"acess",
+				"app/Http/Controllers/User/AccessMenuController.php"
+			],
+			[
+				"rolecont",
+				"app/Http/Controllers/User/RoleController.php"
+			],
+			[
+				"access_menu/form",
+				"resources/views/user/access_menu/form.blade.php"
+			],
+			[
+				"trumbowyg.table",
+				"node_modules/trumbowyg/dist/plugins/table/trumbowyg.table.js"
+			],
+			[
+				"2017_08_12_091139_update_table_post_r2",
+				"database/migrations/2017_08_12_091139_update_table_post_r2.php"
+			],
+			[
+				"frontendcontroller",
+				"app/Http/Controllers/FrontEnd/FrontEndController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Developer/Sites/ukm.sublime-project"
+			],
+			[
+				"we",
+				"~/Documents/web.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

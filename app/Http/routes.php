@@ -24,13 +24,17 @@ Route::get('/', function () {
 // 	return $user->findUser($id);
 // });
 
-Route::group(['prefix'=>'admin','middleware'=>'auth'],function ()
-{
-	Route::resource('user','UserController');
-	Route::resource('post','PostController');
-	Route::resource('role','RoleController');
+Route::group(['prefix' => 'admin', 'middleware' => 'auth'], function () {
+    Route::resource('user', 'UserController');
+    Route::resource('post', 'PostController');
+    Route::resource('role', 'RoleController');
+    Route::get('get-label', 'PostController@getLabel')->name('get_label');
 });
-
+Route::group(['prefix' => 'api'], function () {
+    Route::post('user/store', 'UserController@store');
+    Route::put('user/{id}', 'UserController@update');
+    Route::delete('user/{id}', 'UserController@destroy');
+});
 // https://laravel.com/docs/5.4/migrations
 Route::auth();
 

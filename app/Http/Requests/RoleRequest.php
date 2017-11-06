@@ -2,8 +2,6 @@
 
 namespace App\Http\Requests;
 
-use App\Http\Requests\Request;
-
 class RoleRequest extends Request
 {
     /**
@@ -24,7 +22,7 @@ class RoleRequest extends Request
     public function rules()
     {
         return [
-            'title'=>'required|min:3'
+            'title' => 'required|min:3',
         ];
     }
 }

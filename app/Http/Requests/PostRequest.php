@@ -2,8 +2,6 @@
 
 namespace App\Http\Requests;
 
-use App\Http\Requests\Request;
-
 class PostRequest extends Request
 {
     /**
@@ -24,10 +22,10 @@ class PostRequest extends Request
     public function rules()
     {
         return [
-            'title'=>'required|min:3',
-            'slug'=>'required|min:3',
-            'content'=>'required|min:3',
-            'image'=>'image|min:500',
+            'title' => 'required|min:3',
+            'slug' => 'required|min:3',
+            'content' => 'required|min:3',
+            'image' => 'image|min:500',
         ];
     }
 }

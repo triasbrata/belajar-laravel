@@ -2,8 +2,6 @@
 
 namespace App\Http\Requests;
 
-use App\Http\Requests\Request;
-
 class UserRequest extends Request
 {
     /**
@@ -24,23 +22,21 @@ class UserRequest extends Request
     public function rules()
     {
         $o = [
-            'name'=> 'required',
-            'email'=> 'required|email',
+            'name' => 'required',
+            'email' => 'required|email|unique:users',
         ];
         //for 5.2 < only
-        if($this->password != null && !empty($this->password)){
+        if (null != $this->password && !empty($this->password)) {
             $o['password'] = 'required|confirmed';
         }
+
         return $o;
-
     }
-
 
     public function withValidation($validate)
     {
-        $validate->sometimes('password','required|confirmed',function ($input)
-        {
-            return $input->password != null && !empty($input->password);
+        $validate->sometimes('password', 'required|confirmed', function ($input) {
+            return null != $input->password && !empty($input->password);
         });
     }
 }

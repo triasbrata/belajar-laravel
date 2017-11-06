@@ -1,3 +1,7 @@
-<?php namespace App\Repository\Role;
+<?php
 
-interface RoleRepositoryInterface extends RepositoryInterface{}
+namespace App\Repository\Role;
+
+interface RoleRepositoryInterface extends RepositoryInterface
+{
+}

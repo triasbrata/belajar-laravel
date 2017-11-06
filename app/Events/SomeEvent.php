@@ -1,10 +1,8 @@
 <?php
 
-namespace App\Events;
 
-use App\Events\Event;
+namespace App\Events;
 use Illuminate\Queue\SerializesModels;
-use Illuminate\Contracts\Broadcasting\ShouldBroadcast;
 
 class SomeEvent extends Event
 {
@@ -12,12 +10,9 @@ class SomeEvent extends Event
 
     /**
      * Create a new event instance.
-     *
-     * @return void
      */
     public function __construct()
     {
-        //
     }
 
     /**

@@ -93,6 +93,33 @@
     <!-- JavaScripts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js" integrity="sha384-I6F5OKECLVtK/BL+8iSLDEHowSAfUo76ZL9+kGAgTRdiByINKJaqTPH/QVNS1VDb" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    @stack('javascript')
+    <script type="text/javascript">
+        $(document).on('submit','.form-delete',function (event) {
+            event.stopPropagation();
+            event.preventDefault();
+
+            var form = $(this),
+            urlForm = form.attr('action');
+            $.ajax({
+                url:urlForm,
+                method:'POST',
+                data:form.serialize(),
+                success:function (data) {
+                    if(data.type === 'success'){
+                        alert("berhasil menghapus data")
+                        // if(confirm(data.message)){
+                            // window.location.href = data.url;
+                            
+                            form.parents('tr').remove()
+                        // }
+                    }else if (data.type === 'error'){
+                        alert(data.message);
+                    }
+                }
+            });
+        })
+    </script>
     {{-- <script src="{{ elixir('js/app.js') }}"></script> --}}
 </body>
 </html>

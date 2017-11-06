@@ -2,7 +2,6 @@
 
 namespace App\Http\Controllers\Auth;
 
-
 use Illuminate\Foundation\Auth\ResetsPasswords;
 use Illuminate\Routing\Controller;
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
@@ -15,7 +14,8 @@ class PasswordController extends Controller
     use AuthorizesRequests,
         AuthorizesResources,
         DispatchesJobs,
-        ValidatesRequests,
+        ResetsPasswords,
+        ValidatesRequests;
     /*
     |--------------------------------------------------------------------------
     | Password Reset Controller
@@ -27,12 +27,8 @@ class PasswordController extends Controller
     |
     */
 
-    use ResetsPasswords;
-
     /**
      * Create a new password controller instance.
-     *
-     * @return void
      */
     public function __construct()
     {
